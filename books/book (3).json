@@ -1,0 +1,15 @@
+{
+    "title": "Develop Square",
+    "term": "2019.11~2021.10",
+    "tag": "趣味",
+    "skills": "PHP, MySQL, Unity(C#), Blender, Flutter(Dart), Python(Kivy, Pytorch, Tensorflow), RaspberryPi",
+    "abst": "同大学の6名で発足したアプリ開発チームです。自分はアクティブなほうではなかったのでこの活動に参加するにあたって抵抗がありましたが、心の底に「変わりたい」という思いがあったので意を決して活動に参加しました。ここでアプリケーション開発の様々な基礎が構築されたと感じています。",
+    "timeline": {
+        "2019-11-19": "UOZUゲームハッカソン2019に参加",
+        "2019-12-22": "「Time Capsule Service」の開発を開始",
+        "2020-02-28": "「3D Board Game」の開発を開始",
+        "2020-03-08": "「Time Capsule Service」が完成",
+        "2020-09-26": "技育展2020に「3D Board Game」で登壇",
+        "2021-09-19": "技育展2021に「Ganimation」で登壇"
+    }
+}

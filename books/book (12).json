@@ -1,0 +1,12 @@
+{
+    "title": "研究者の方とアプリ開発",
+    "term": "2023.6~2024.6",
+    "tag": "アルバイト",
+    "skills": "Unity(C#), OpenAI API, Python, Tkinter, SAM(Segment Anything Model), DICOM, React, Next.js",
+    "abst": "Apex Legendsでマッチングした方に紹介していただいたアルバイトでした。相手の作りたいアプリを自分のアプリのイメージと一致させる能力を養うことができました。",
+    "timeline": {
+        "2023-06-21": "clusterの世界にchatbotアバターを導入するアプリ開発に着手",
+        "2023-07-23": "SAMを用いてDICOM画像にアノテーションを行うアプリ開発に着手",
+        "2024-03-08": "DICOM画像のe-learningを行うアプリ開発に着手"
+    }
+}
