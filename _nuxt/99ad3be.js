@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{354:function(e){e.exports=JSON.parse('{"title":"フューチャー","term":"2022.10~2024.6","tag":"アルバイト","skills":"Vue.js, Nuxt.js, GO, Java, Groovy, SQL","abst":"インターンと同じチームで働きました。触っていた部分は主にフロントエンドでしたがバックエンドも触ったりしてました。リモートで相手に伝えることの難しさを痛感しました。","timeline":{}}')}}]);

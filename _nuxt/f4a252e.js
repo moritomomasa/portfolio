@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{362:function(e){e.exports=JSON.parse('{"title":"学食","term":"2021~2022","tag":"アルバイト","skills":"","abst":"ほぼ毎日のように研究室に行っていたので、研究室からの最短距離でアルバイトをしたいと考えたときに出てきたのが学食でした。初めての飲食系のアルバイトだったのでいろいろ成長を感じられて楽しかったですが、次第に成長が感じられなくなり退職しました。","timeline":{}}')}}]);

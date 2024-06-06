@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{356:function(e){e.exports=JSON.parse('{"title":"個別指導塾","term":"2019~2020","tag":"アルバイト","skills":"","abst":"初めてのアルバイトで、お金を稼ぐことの大変さと「知識を教える」責任の重さを実感しました。塾が破産したので解雇されました。","timeline":{}}')}}]);

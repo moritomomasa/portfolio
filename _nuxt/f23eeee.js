@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{361:function(e){e.exports=JSON.parse('{"title":"ブックオフ","term":"2021~2022","tag":"アルバイト","skills":"","abst":"この頃に車を手に入れたことで移動範囲が広がり、たまたま良い距離で求人募集してたので始めました。本の整頓は終始楽しかったですが、ある程度慣れたことで成長速度が大きく低下し、やりがいを感じられなくなってしまったため退職しました。","timeline":{}}')}}]);

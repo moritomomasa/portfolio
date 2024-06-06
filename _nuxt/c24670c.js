@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{358:function(e){e.exports=JSON.parse('{"title":"コンビニ","term":"2020~2021","tag":"アルバイト","skills":"","abst":"塾は子供を対象としたアルバイトだったので次は大人も相手にしたいという思いから始めました。主に夜勤で働いていましたが目の疲れが酷く角膜にダメージが入ってしまったので退職。","timeline":{}}')}}]);

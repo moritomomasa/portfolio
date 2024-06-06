@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{352:function(e){e.exports=JSON.parse('{"title":"森　友雅","term":"2000.1.26~","tag":"自己紹介","skills":"","abst":"なぜかフロントエンドに触れる機会が多いのでフロントエンドが好きです。多趣味な方だと自分自身感じていて、点々としてますが変わらず好きなことは「ゲーム（主にApex Legends）、漫画（主に鬱漫画）、音楽（最近は藤井風）、サウナ」とかです！","timeline":{}}')}}]);

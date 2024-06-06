@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{363:function(e){e.exports=JSON.parse('{"title":"ライブハウス","term":"2022~2023","tag":"アルバイト","skills":"","abst":"研究室で代々引き継がれているライブハウスのアルバイトを自分が引き継ぎました。私にとって歌を聴きながらお金ももらえるということは神条件でした。ちゃんと次の代に引き継ぎました。","timeline":{}}')}}]);

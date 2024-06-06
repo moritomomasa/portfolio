@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{353:function(e){e.exports=JSON.parse('{"title":"フューチャー","term":"2022.8~2022.9","tag":"インターン","skills":"Vue.js, Nuxt.js","abst":"1か月間、コンポーネントを数コ作成しました。","timeline":{}}')}}]);
