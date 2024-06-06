@@ -51,4 +51,8 @@ export default {
             }
         },
     },
+
+    router: {
+        base: '/portfolio/',
+    },
 }
