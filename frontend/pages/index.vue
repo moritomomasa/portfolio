@@ -36,9 +36,16 @@ export default Vue.extend({
                 const res: { data: {} } = await import(`~/books/book (${i}).json`)
                 this.books.push(res)
             }
-        } catch {
-            // 最初の要素にObserverが入っていて、関係がないため削除
-            this.books.shift()
+        } catch(e) {
+            console.log(e)
+        }
+        // 0番目の要素はObserverが入るため削除
+        this.books.shift()
+        
+        try {
+            const res: any = await fetch('http://localhost:8081/greeting')
+        } catch (e) {
+            console.log(e)
         }
     },
 })
